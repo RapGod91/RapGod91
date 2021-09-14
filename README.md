@@ -14,6 +14,7 @@
   <img align="center" alt="Rap-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rap-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Rap-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+   <img align="right" alt="Rap-Awesome" height="100" width="120" src="https://camo.githubusercontent.com/b192adfb8ff465a3aa3fb799bdeb0d94774ccf150c09c8a1a209b5454cb0b64e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78484d4944417931716b7a4e532f67697068792e676966">
 </div>
   <br>
   <div>
