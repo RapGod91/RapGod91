@@ -2,7 +2,6 @@
 
 - 💻 Estudante no 5º ano de Engenharia de Computação
 - 🐱‍💻 Help Desk na empresa PortoNet
-- 🏫 Estágiario na Regional Net
 - 📫 Contato: raphaelrodriguessilva@gmail.com
 - 😄 Pronouns: ele/dele
 
